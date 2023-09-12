@@ -1,3 +1,3 @@
-# open-source-indie
+# FOSS projects
 
 # Welcome
